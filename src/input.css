@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hi{
+    position: relative;
+    top: -50px;
+    margin: auto;
+}
+.hy{
+    position: relative;
+    top: -130px;
+    margin: auto;
+}
